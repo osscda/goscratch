@@ -1,0 +1,2 @@
+# goscratch
+Go from Scratch
